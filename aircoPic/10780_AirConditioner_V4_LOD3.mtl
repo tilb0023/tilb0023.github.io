@@ -11,8 +11,8 @@ Ka 1.0000 1.0000 1.0000
 Kd 1.0000 1.0000 1.0000
 Ks 0.2700 0.2700 0.2700
 Ke 0.0000 0.0000 0.0000
-map_Ka AirConditioner.jpg
-map_Kd AirConditioner.jpg
+map_Ka https://tilb0023.github.io/aircoPic/AirConditioner.jpg
+map_Kd https://tilb0023.github.io/aircoPic/AirConditioner.jpg
 newmtl _10780_AirConditioner_V4_LOD301___Default
 Ns 30.0000
 Ni 1.5000
