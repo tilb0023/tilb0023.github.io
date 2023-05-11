@@ -12,5 +12,5 @@ newmtl 01___Default
 	Kd 1.0000 1.0000 1.0000
 	Ks 0.2626 0.2626 0.2626
 	Ke 0.0000 0.0000 0.0000
-	map_Ka 12211_Robot_diffuse.jpg
-	map_Kd 12211_Robot_diffuse.jpg
+	map_Ka https://tilb0023.github.io/Robot_v1_L2.123c15d8bae1-9297-4131-9548-a26f04f08c31/12211_Robot_diffuse.jpg
+	map_Kd https://tilb0023.github.io/Robot_v1_L2.123c15d8bae1-9297-4131-9548-a26f04f08c31/12211_Robot_diffuse.jpg
